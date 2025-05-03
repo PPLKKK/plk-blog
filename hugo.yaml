@@ -24,10 +24,11 @@ params:
     iconHeight: 35
   # 首页信息配置
   homeInfoParams:
-    Title: "Hello,我是plk，很高兴认识你"
+    Title: "Hello,I'm plk"
     Content: >
-      佛系跟新，勿念
-      关注我 :)
+      懒惰医学牲一名，爱好打游戏,打游戏,打游戏
+
+        关注我 :)
 
   # 设置网站头像和首页头像
   profileMode:
