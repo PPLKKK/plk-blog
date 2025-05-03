@@ -26,9 +26,9 @@ params:
   homeInfoParams:
     Title: "Hello,I'm plk"
     Content: >
-      懒惰医学牲一名，爱好打游戏,打游戏,打游戏
+      懒惰医学牲一名，爱好：吃饭，睡觉，打豆豆
 
-        关注我 :)
+      
 
   # 设置网站头像和首页头像
   profileMode:
